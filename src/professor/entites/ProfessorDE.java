@@ -1,6 +1,6 @@
-package entites;
+package professor.entites;
 
-public class ProfessorDE  extends entites.Professor {
+public class ProfessorDE  extends professor.entites.Professor {
     private double salario;
 
     public ProfessorDE(int matricula, String nome, int cargaHoraria, double salario) {

@@ -1,4 +1,4 @@
-package entites;
+package professor.entites;
 
 /**
  * - private

@@ -1,7 +1,7 @@
-package app;
+package professor.app;
 
-import entites.ProfessorDE;
-import entites.ProfessorHorista;
+import professor.entites.ProfessorDE;
+import professor.entites.ProfessorHorista;
 
 public class Program {
     public static void main(String[] args) {

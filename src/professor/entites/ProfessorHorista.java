@@ -1,4 +1,4 @@
-package entites;
+package professor.entites;
 
 public class ProfessorHorista extends Professor{
     private double salarioHora;
