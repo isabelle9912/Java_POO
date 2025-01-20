@@ -10,7 +10,7 @@ public class Executor {
 
     public static final Scanner sc = new Scanner(System.in);
 
-    public Carros carros = new Carros();
+    //public Carros carros = new Carros();
 
     public static void main(String[] args) {
         System.out.println("Programa para gerenciar carros");
